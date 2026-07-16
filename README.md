@@ -1,7 +1,5 @@
 # AIVOA-AI-Website-Manual-Testing
 
-# AIVOA.AI Website Manual Testing
-
 ## Project Overview
 This project demonstrates manual testing performed on the AIVOA.AI website to evaluate its functionality, usability, responsiveness, and navigation.
 
